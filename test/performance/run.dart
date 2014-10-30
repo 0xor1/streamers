@@ -29,13 +29,8 @@ class X extends W{}
 class Y extends X{}
 class Z extends Y{}
 class DoesntInherit{int val;}
-
 class GenericsA<T>{int val;}
 class GenericsB<T> extends GenericsA<T>{}
-
-const String cachedTypeMatcherA = 'cachedtypeMatcherA';
-const String cachedTypeMatcherB = 'cachedtypeMatcherB';
-const String dynamicTypeMatcher = 'dynamictypeMatcher';
 
 void main() {
   /**

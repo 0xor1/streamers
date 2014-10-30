@@ -61,7 +61,7 @@ void main(){
 ##All
 
 There is a special Type **All** which allows receivers to listen for every object emitted
-by an **Emitter** with a single **Receiverhandler** regardless of the objects type.
+by an **Emitter** with a single handler regardless of the objects type.
 
 ```dart
 /// raw emiiter
