@@ -1,4 +1,4 @@
-#Streamers
+#Streamers [![Build Status](https://drone.io/github.com/0xor1/streamers/status.png)](https://drone.io/github.com/0xor1/streamers/latest)
 
 Streamers provides a simple mixin class, Emitter, to enable any object to emit arbitrary
 objects through streams. It also provides a convenience mixin class, Receiver, to assist
