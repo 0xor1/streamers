@@ -1,0 +1,7 @@
+name: streamers
+version: 0.0.0
+author: Daniel Robinson <daniel.robinson.open@gmail.com>
+description: A simple mixin that will allow any class to emit objects via streams. modified from Steven Roose excellent dart-events package.
+homepage: http://github.com/0xor1/streamers
+dev_dependencies:
+  unittest: any
